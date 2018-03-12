@@ -1,3 +1,4 @@
+## Use CVE-2018-8058
 
 ## Stored XSS 
 CMS Made Simple (CMSMS) 2.2.6 has XSS in admin/moduleinterface.php via the pagedata parameter.
